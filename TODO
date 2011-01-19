@@ -1,0 +1,3 @@
+- cp distribution to master and workes
+- start workes on hbase nodes
+- run distscan.sh [table] count.js
